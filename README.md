@@ -1,2 +1,2 @@
 # Serene
-My project visual novel game
+- My abandoned project visual novel game
